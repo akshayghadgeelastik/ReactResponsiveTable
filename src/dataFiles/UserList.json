@@ -1,0 +1,35 @@
+[
+    {
+        
+        "firstName": "Test",
+        "lastName": "A",
+        "emailAddress": "testA1234567890@test.com",        
+        "userStatusName": "Active",        
+        "userRoleName": "Member",       
+        "Address": "15205 North Kierland Blvd. Suite 100",       
+        "Contact": "1234567890",
+        "Gender":"M"
+    },
+    {
+        
+        "firstName": "Test",
+        "lastName": "B",
+        "emailAddress": "testB@test.com",        
+        "userStatusName": "Inactive",       
+        "userRoleName": "Non-Member",
+        "Address": "Waikoloa Beach Resort, Unit D---8 250 Waikoloa Beach",       
+        "Contact": "21122332",
+         "Gender":"F"
+    },
+    {
+         
+        "firstName": "Test",
+        "lastName": "C",
+       "emailAddress": "testC@test.com",        
+        "userStatusName": "Active",        
+        "userRoleName": "Admin",
+        "Address": "201 Bellevue Square, Space 201",
+        "Contact": "334343434",
+        "Gender":"M"
+    }
+]
